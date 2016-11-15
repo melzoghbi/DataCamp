@@ -24,7 +24,7 @@ and predictive modeling in the [wind energy](https://channel9.msdn.com/Blogs/Set
 
 If this type of analysis is on your need-to-learn skills list, This content is for you.
 
-## Prerequisites:
+## Prerequisites
 This is an interactive camp. Please install the below software:
  
 + Activate your Azure account and bring your Microsoft account credentials. Don't have a Microsoft account? [Sign up](https://signup.live.com/newuser.aspx) now

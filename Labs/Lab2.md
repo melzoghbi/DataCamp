@@ -15,9 +15,10 @@ The completed experiment/solution is located in the link below.
 
 [Flight Delay Prediction Experiment](https://gallery.cortanaintelligence.com/Experiment/Binary-Classification-Flight-delay-prediction-3) 
 
-** Understanding Flight Delays Data Set **
 
-A flight is counted as "on time" if it operated less than 15 minutes later the scheduled time shown in the carriers' Computerized Reservations Systems (**CRS**). 
+## Understanding Flight Delays Data Set
+
+A flight is counted as **on time** if it operated less than 15 minutes later the scheduled time shown in the carriers' Computerized Reservations Systems (**CRS**). 
 Arrival performance is based on arrival at the gate. Departure performance is based on departure from the gate. [Source: Bureau of Transportation Statstics](http://www.rita.dot.gov/bts/help/aviation/index.html)
 
 Before start implementing this experiment, We would like to share some important notes about the dataset & Azure ML experiment:
