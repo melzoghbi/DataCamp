@@ -1,5 +1,5 @@
-# DataCamp
-@Microsoft Data Camp (Analytics with Azure Machine Learning)
+# Microsoft Data Camp 
+This repo contains Microsoft Data Camp (Analytics with Azure Machine Learning)
 
 ![Microsoft Data Camp](/Images/Header.PNG "Microsoft Data Camp")
 
