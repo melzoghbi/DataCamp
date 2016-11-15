@@ -8,7 +8,7 @@ your AzureML workspace account by clicking on **Open in Studio** button in the e
 
 ![Open Studio button](/Images/OpenInStudio.PNG)
 
-The completed experiment/solution is located in the link below.
+The completed experiment/solution is located in the below link:
 
 [Predict Income >50K Experiment](https://gallery.cortanaintelligence.com/Experiment/Sample-5-Train-Test-Evaluate-for-Binary-Classification-Adult-Dataset-6) 
 

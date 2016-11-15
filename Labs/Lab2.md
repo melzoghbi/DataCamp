@@ -11,7 +11,7 @@ your AzureML workspace account by clicking on **Open in Studio** button in the e
 
 ![Open Studio button](/Images/OpenInStudio.PNG)
 
-The completed experiment/solution is located in the link below.
+The completed experiment/solution is located in the below link:
 
 [Flight Delay Prediction Experiment](https://gallery.cortanaintelligence.com/Experiment/Binary-Classification-Flight-delay-prediction-3) 
 
