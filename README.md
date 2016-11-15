@@ -47,3 +47,7 @@ This is an interactive camp. Please install the below software:
 + Labs Folder: Contains Labs of this data camp.
 + Resources Folder: Contains the Hands-on labs in a word document format (.docx).
 + PPT Folder: Contains the deck for this data camp.
+
+
+## Presentation
+![Speaker Info](/Images/ContactMe.PNG "Mostafa Elzoghbi - Azure Machine Learning")
