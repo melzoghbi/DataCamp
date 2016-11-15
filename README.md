@@ -34,3 +34,9 @@ This is an interactive camp. Please install the below software:
 + Visual Studio 2015 Community, Pro, or Enterprise must be installed.
 + Office 2013 or later. 
 + Create Azure ML workspace for free by [signing up](https://studio.azureml.net/) here.
+
+
+## Labs
+
+1. Business Problem: [Predict Individual's Income >50K](/Labs/Lab1.md)
+2. Business Problem: [Flight delay prediction](/Labs/Lab2.md)   
