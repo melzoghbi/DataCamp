@@ -45,7 +45,7 @@ This is an interactive camp. Please install the below software:
 ## Folders Structure
 
 + Labs Folder: Contains Labs of this data camp.
-+ Resources Folder: Contains the Hands-on labs in a word document format (.docx).
++ Resources Folder: Contains the Hands-on labs in a word document format (.docx), demos, and other Machine Learning resources.
 + PPT Folder: Contains the deck for this data camp.
 
 
