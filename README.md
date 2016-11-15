@@ -1,6 +1,7 @@
 # DataCamp
 @Microsoft Data Camp (Analytics with Azure Machine Learning)
 
+[Microsoft Data Camp](/images/Header.PNG)
 
 Does your company face business-critical decisions that rely on dynamic transactional data? If you answered “yes,” you need to attend this free, hands-on event featuring Microsoft analytic tools. We’ll focus on Azure Machine Learning capabilities and explore the following topics: 
 + Common machine learning algorithms 
