@@ -40,3 +40,10 @@ This is an interactive camp. Please install the below software:
 
 1. Business Problem: [Predict Individual's Income >50K](/Labs/Lab1.md)
 2. Business Problem: [Flight delay prediction](/Labs/Lab2.md)   
+
+
+## Folders Structure
+
++ Labs Folder: Contains Labs of this data camp.
++ Resources Folder: Contains the Hands-on labs in a word document format (.docx).
++ PPT Folder: Contains the deck for this data camp.
