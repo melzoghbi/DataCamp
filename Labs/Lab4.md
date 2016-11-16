@@ -8,10 +8,10 @@ When deployed as a Web service, Azure Machine Learning experiments provide a RES
 
 1. From the Azure ML studio, Click on web services tab.
 2. Click on the deployed web service that you would like to consume from the console app.
-3. Click on Test preview link in REQUEST/RESPONSE Default Endpoint section.
-4. Click on Consume tab, you will find sample code to consume Azure ML in C#, Python or R.
+3. Click on the Test preview link in REQUEST/RESPONSE record under Default Endpoint section.
+4. Click on the Consume tab, you will find sample code to consume Azure ML in C#, Python or R.
 5. Open Visual Studio 2015, Create a console application.
-6. Update the main method with the code for consuming the selected web service.
+6. Update the main method with the below code (or what is in web service portal) for consuming the selected web service.
 
 ```C#
 
