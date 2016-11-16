@@ -46,15 +46,20 @@ The RRS test page displays the inputs, outputs, and any global parameters that y
 
 ![Test Web Service in Azure ML](/Images/WSTestPortal.PNG)
 
+
 1. Click on Test button to test the web service by entering its input variables in the popup window.
 
 ![Test Web Service Modal Window in Azure ML](/Images/TestWSModal.PNG)
 
+
 2. Click on Excel 2013 link to call the Web Service from Azure ML Add-In in Excel.
 
 Click on Use sample data button, set the region of the input sample data, then enter the output cell and click on predict button.
+Below screen shot shows a result from a deployed Azure ML web serivce. 
 
 ![Azure ML Add-In in Excel](/Images/AzureMLAddIn.PNG)
+
+
 
 Source: 
 [How a Machine Learning model progresses from an experiment to an operationalized Web service](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-model-progression-experiment-to-web-service)
