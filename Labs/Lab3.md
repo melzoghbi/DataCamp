@@ -12,7 +12,7 @@ Note: You have to complete lab 1 or 2 to be able to move forward in Lab 3.
 ![Stages of Typical Predictive Analysis Model](/Images/StagesOfTypicalPredictiveAnalysisModel.PNG)
 
 # Introduction
-This section covers the difference between training vs. predictive experiment in Machine Learning.
+This section covers the difference between training vs. predictive experiments in Machine Learning.
 
 ## The training experiment
 
