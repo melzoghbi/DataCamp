@@ -41,6 +41,7 @@ This is an interactive camp. Please install the below software:
 1. Lab #1: Business Problem: [Predict Individual's Income >50K](/Labs/Lab1.md)  [Estimated: 1 hour]
 2. Lab #2: Business Problem: [Flight delay prediction](/Labs/Lab2.md)   [Estimated: 3 hours]
 3. Lab #3: [Convert a training experiment into a predictive experiment in Azure ML](/Labs/Lab3.md)  [Estimated: 1 hour]
+4. Lab #4: [Consume an Azure ML web service using Visual Studio 2015](/Labs/Lab4.md)   [Estimated: 1 hour]
 
 ## Folders Structure
 
