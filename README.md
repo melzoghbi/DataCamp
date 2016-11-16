@@ -38,9 +38,9 @@ This is an interactive camp. Please install the below software:
 
 ## Labs
 
-1. Business Problem: [Predict Individual's Income >50K](/Labs/Lab1.md)
-2. Business Problem: [Flight delay prediction](/Labs/Lab2.md)   
-
+1. Lab #1: Business Problem: [Predict Individual's Income >50K](/Labs/Lab1.md)
+2. Lab #2: Business Problem: [Flight delay prediction](/Labs/Lab2.md)   
+3. Lab #3: [Convert a training experiment into a predictive experiment in Azure ML](/Labs/Lab3.md)
 
 ## Folders Structure
 

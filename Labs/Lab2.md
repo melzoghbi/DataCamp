@@ -7,7 +7,7 @@ Follow these steps to build this binary classifier experiment using Azure ML Stu
 
 
 This experiment is located in Microsoft Cortana Intelligence Suite website, You can copy the final experiment into
-your AzureML workspace account by clicking on **Open in Studio** button in the experiment. 
+your Azure ML workspace account by clicking on **Open in Studio** button in the experiment. 
 
 ![Open Studio button](/Images/OpenInStudio.PNG)
 
