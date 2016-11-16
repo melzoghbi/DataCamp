@@ -1,5 +1,5 @@
 
-## Business Problem:  Convert the training experiment to a predictive experiment [Estimated: 1 hour]
+## Lab 3:  Convert the training experiment to a predictive experiment [Estimated: 1 hour]
 
 Once you've trained your model, you're ready to convert your training experiment into a predictive experiment to score new data.
 
