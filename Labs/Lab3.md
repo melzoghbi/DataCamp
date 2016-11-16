@@ -9,7 +9,7 @@ As you convert to a predictive experiment, keep in mind how you expect your mode
 
 Note: You have to complete lab 1 or 2 to be able to move forward in Lab 3.
 
-![Stages of Typical Predictive Analysis Model](/Images/StagesOfTypicalAnalysisModel.PNG)
+![Stages of Typical Predictive Analysis Model](/Images/StagesOfTypicalPredictiveAnalysisModel.PNG)
 
 # Introduction
 This section covers the difference between training vs. predictive experiment in Machine Learning.
