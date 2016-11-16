@@ -1,5 +1,5 @@
 
-## Business Problem: Predict Income >50K (Level 100) [Estimated: 1 hour]
+## Business Problem: Predict Income >50K 
 
 This experiment demonstrates how we can build a binary classification model to predict income levels of adult individuals.
 

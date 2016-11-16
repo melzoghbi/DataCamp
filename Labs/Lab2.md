@@ -1,5 +1,5 @@
 
-## Business Problem:  Flight delay prediction (Level 300) [Estimated: 3 hours]
+## Business Problem:  Flight delay prediction
 
 In this experiment, we predict whether scheduled passenger flight is delayed or not using a Binary-classifier.
 The problem statement is describing how to build this experiment from scratch. 
