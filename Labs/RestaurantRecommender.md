@@ -1,12 +1,11 @@
 
 ## Restaurant Recommender:  Recommend me the top three restaurants 
 
-This experiment demonstrates how to build a recommend the top **three favorable restaurants** to a customer.
+This experiment demonstrates how to build a recommender system in Azure Machine Learning (AML) to recommend the top **three favorable restaurants** to a customer.
+This experiment uses matchbox recommender modules in AML to train a restaurant recommendation engine.
 
- This experiment uses the matchbox recommender modules in Azure Machine Learning (AML) to train a restaurant recommendation engine.
 
 ## Description
-
 
 In this experiment we are going to build a recommender system that recommend a customer three restaurant based on his eating habits. We chose to recommend top three restaurants to any given customer. 
 The top three restaurants number could be easily modified by modifying the **Maximum number of items to recommend to a user**.
@@ -18,7 +17,7 @@ Below table shows various parameter values and the performance of the model for 
 | ---------------------------------------|:--------------------------------------------:| --------:|
 | 0.5                                    | 0.25                                         | 0.922669 |
 | 0.4                                    | 0.7                                          | 0.953137 |
-| 0.7                                    | 0.7                                          | 0.972299 |
+| 0.7                                    | 0.7                                          | 0.972299 |  <-- Best Performance!
 
 
 ![Full Restaurant Recommender Experiment](/Images/RestRecommender/OverviewExp.PNG "Restaurant Recommender")
@@ -42,7 +41,7 @@ To view a better output with restaurant names rather than ids, click on "Visuali
 
 ![Restaurant Recommender Cleaned Up Output](/Images/RestRecommender/TopThreeRestOutput.PNG "Restaurant Recommender Cleaned Up Output")
 
-You will notice that the cleaned up output contains recommendation for **24** users only due to the "inner join" we used to present the restaurant names for the top three recommendation.
+You will notice that the cleaned up output contains recommendation for **24** users only due to the "inner join" we used to present the restaurant names for the top three recommendations.
 
 
 ### Recommender Performance
