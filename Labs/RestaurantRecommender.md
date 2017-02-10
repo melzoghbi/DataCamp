@@ -25,25 +25,28 @@ Below table shows various parameter values and the performance of the model for 
 
 ### Join To Show Restaurant Names
 
-The purpose of the join modules in this experiment is to show a cleaned up output. So the experiment show the resutrant name rather than ids as you can examine from the recommender module output.
+The purpose of the join modules in this experiment is to show a cleaned up output. So the experiment show the restaurant name rather than ids as you can examine from the recommender module output.
 
 ![Model Joins](/Images/RestRecommender/JoinRestNames.PNG "Model Joins")
 
-### Top Three Restaurant Output
 
-The model output shows a list of recommendations for 29 users. You can view this by clicking on "Visualize" option on matchbox recommender module.
+### Three Restaurant Recommendation Output
 
-![Restaurant Recommender Output](/Images/RestRecommender/RecPerf.PNG "Restaurant Recommender Output")
+The model output shows restaurant recommendations for **29** users. You can view this by clicking on "Visualize" option on the matchbox recommender module.
 
-You can notice that some users (only three users) were not able to recommend three restaurants due to their eating habits didn't match at least two other users in the data set.
+![Restaurant Recommender Output](/Images/RestRecommender/RecommenderOutput.PNG "Restaurant Recommender Output")
+
+You can notice that some users (only three users) the model was not able to recommend three restaurants due to their eating habits didn't match at least two other users in the data set.
 
 To view a better output with restaurant names rather than ids, click on "Visualize" option from "Select Columns" module that provide cleaned up output.
 
 ![Restaurant Recommender Cleaned Up Output](/Images/RestRecommender/TopThreeRestOutput.PNG "Restaurant Recommender Cleaned Up Output")
 
+You will notice that the cleaned up output contains recommendation for **24** users only due to the "inner join" we used to present the restaurant names for the top three recommendation.
+
 
 ### Recommender Performance
 
-The best performance we achieved for this model is **0.972299** due to tweaking work we have done to get the best recommendation out of this model. 
+The best performance we achieved for this model is **0.972299** after the tweaking work in the model to get the best recommendation out of this public restaurant ratings data set. 
 
 ![Restaurant Recommender Performance](/Images/RestRecommender/RecPerf.PNG "Restaurant Recommender Model Performance")
