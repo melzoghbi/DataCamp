@@ -38,11 +38,11 @@ The model output shows restaurant recommendations for **29** users. You can view
 
 You can notice that some users (only three users) the model was not able to recommend three restaurants due to their eating habits didn't match at least two other users in the data set.
 
-To view a better output with restaurant names rather than ids, click on "Visualize" option from "Select Columns" module that provide cleaned up output.
+To view restaurant names rather than ids, click on "Visualize" option from "Select Columns" module that provide cleaned up output.
 
 ![Restaurant Recommender Cleaned Up Output](/Images/RestRecommender/TopThreeRestOutput.PNG "Restaurant Recommender Cleaned Up Output")
 
-You will notice that the cleaned up output contains recommendation for **24** users only due to the "inner join" we used to present the restaurant names for the top three recommendations.
+You will notice that the cleaned up output contains recommendation for **24** users only due to the "inner join" modules we used to present the restaurant names for the top three recommendations.
 
 
 ### Recommender Performance
