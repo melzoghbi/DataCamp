@@ -24,7 +24,8 @@ Below table shows various parameter values and the performance of the model for 
 
 ### Join To Show Restaurant Names
 
-The purpose of the join modules in this experiment is to show a cleaned up output. So the experiment show the restaurant name rather than ids as you can examine from the recommender module output.
+The purpose of the "Join Data" modules in this experiment is to show a cleaned up output by providing restaurant names recommendations.
+This section is optional, The experiment shows the restaurant names rather than ids.
 
 ![Model Joins](/Images/RestRecommender/JoinRestNames.PNG "Model Joins")
 
