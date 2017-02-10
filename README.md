@@ -43,6 +43,12 @@ This is an interactive camp. Please install the below software:
 3. Lab #3: [Convert a training experiment into a predictive experiment in Azure ML](/Labs/Lab3.md)  [Estimated: 1 hour]
 4. Lab #4: [Consume an Azure ML web service using Visual Studio 2015](/Labs/Lab4.md)   [Estimated: 1 hour]
 
+
+## Recommender Systems
+
+1. [Restaurant Recommender](/Labs/RestaurantRecommender.md)
+
+
 ## Folders Structure
 
 + Labs Folder: Contains Labs of this data camp.
