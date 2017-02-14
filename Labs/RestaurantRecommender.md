@@ -4,6 +4,7 @@
 This experiment demonstrates how to build a recommender system in Azure Machine Learning (AML) to recommend the top **three favorable restaurants** to a customer.
 This experiment uses matchbox recommender modules in AML to train a restaurant recommendation engine.
 
+The full experiment is published to Cortana Intelligence Gallery [here.](https://gallery.cortanaintelligence.com/Experiment/The-Restaurant-Recommender-1)
 
 ## Description
 
