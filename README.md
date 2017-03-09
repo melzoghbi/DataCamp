@@ -50,7 +50,7 @@ This is an interactive camp. Please install the below software:
 
 
 ## Azure Machine Learning Workshop for Data Scientists 
-We created a 4 hours workshop for data scientists to get started with different aspects of Microsoft stack machine learning covering the following topics and technologies:
+We created a 4 hours workshop for data scientists to get started with different topics of machine learning covering below topics through hands-on labs.
 The full instructions for the intended audience are located in "WorkshopInstructions.docx" document under **DSWorkshop** folder. 
 
 a) Monetizing Azure Machine Learning Web Services.
