@@ -54,9 +54,13 @@ We created a 4 hours workshop for data scientists to get started with different 
 The full instructions for the intended audience are located in "WorkshopInstructions.docx" document under **DSWorkshop** folder. 
 
 a) Monetizing Azure Machine Learning Web Services.
+
 b) Creating Custom R Modules in Azure Machine Learning.
+
 c) Text Analytics in Cognitive Services.
+
 d) Build Recommender System using Azure Machine Learning.
+
 e) Bonus Lab: Integrate Power BI Embedded into LOB Apps.
 
 
