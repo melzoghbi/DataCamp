@@ -1,0 +1,6 @@
+{"documents":[ 
+                    {"id":"1","text":"hello world"},
+                    {"id":"2","text":"hello foo world"}, 
+                    {"id":"three","text":"hello my world"}
+		]
+}
